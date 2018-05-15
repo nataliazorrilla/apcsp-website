@@ -1,0 +1,39 @@
+html {
+    background: linear-gradient(PowderBlue, White);
+    background-size: cover;
+}
+body {
+    padding-left: 12em;
+    padding-right: 2em;
+    font-family: Georgia, "Times New Roman", Tumes, serif;
+}
+nav {
+    padding:0;
+    margin:0;
+    position:absolute;
+    top: 2em;
+    left: 1em;
+    width: 9em;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav li {
+    background: white;
+    margin: 0.5em 0;
+    padding: 0.3em;
+    border-right: 1em solid CadetBlue;
+}
+
+h1 {
+    color: black;
+    background-color: CadetBlue;
+    padding: 10px;
+    border-radius: 25px;
+}
+p {
+    color: black;
+}
+
